@@ -89,21 +89,14 @@ status: open to interesting engineering opportunities
 
 ## `05. Selected laboratory`
 
-<a href="https://github.com/neckmnull/polyglot-lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=neckmnull&repo=polyglot-lab&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=7C3AED&text_color=A9B7C6" alt="Polyglot Lab repository card" />
-</a>
+> ### [Polyglot Lab →](https://github.com/neckmnull/polyglot-lab)
+> **18 languages · 9 paradigm families · automated integrity checks · MIT licensed**
+>
+> A documented tour through programming paradigms—from COBOL and Prolog to Elixir,
+> Raku, and Zig. It is a learning artifact and reproducible reference, not a claim of
+> production expertise in every language.
 
-**[Polyglot Lab](https://github.com/neckmnull/polyglot-lab)** is a documented tour
-through programming paradigms—from COBOL and Prolog to Elixir, Raku, and Zig. It is a
-learning artifact and reproducible reference, not a claim of production expertise in
-every language.
-
-## `06. GitHub telemetry`
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=neckmnull&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=00E5FF&icon_color=7C3AED&text_color=A9B7C6" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neckmnull&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=A9B7C6&langs_count=8" alt="Most used languages" />
-</div>
+## `06. Contribution signal`
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=neckmnull&theme=transparent&hide_border=true&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=A9B7C6&dates=64748B&stroke=111827" alt="GitHub contribution streak" />
